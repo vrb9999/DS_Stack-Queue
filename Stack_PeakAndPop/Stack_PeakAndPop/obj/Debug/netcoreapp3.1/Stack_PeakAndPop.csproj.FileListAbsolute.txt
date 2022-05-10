@@ -1,0 +1,13 @@
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\bin\Debug\netcoreapp3.1\Stack_PeakAndPop.exe
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\bin\Debug\netcoreapp3.1\Stack_PeakAndPop.deps.json
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\bin\Debug\netcoreapp3.1\Stack_PeakAndPop.runtimeconfig.json
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\bin\Debug\netcoreapp3.1\Stack_PeakAndPop.runtimeconfig.dev.json
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\bin\Debug\netcoreapp3.1\Stack_PeakAndPop.dll
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\bin\Debug\netcoreapp3.1\Stack_PeakAndPop.pdb
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\obj\Debug\netcoreapp3.1\Stack_PeakAndPop.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\obj\Debug\netcoreapp3.1\Stack_PeakAndPop.AssemblyInfoInputs.cache
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\obj\Debug\netcoreapp3.1\Stack_PeakAndPop.AssemblyInfo.cs
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\obj\Debug\netcoreapp3.1\Stack_PeakAndPop.csproj.CoreCompileInputs.cache
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\obj\Debug\netcoreapp3.1\Stack_PeakAndPop.dll
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\obj\Debug\netcoreapp3.1\Stack_PeakAndPop.pdb
+D:\RFP\DS_Stack-Queue\Stack_PeakAndPop\Stack_PeakAndPop\obj\Debug\netcoreapp3.1\Stack_PeakAndPop.genruntimeconfig.cache
