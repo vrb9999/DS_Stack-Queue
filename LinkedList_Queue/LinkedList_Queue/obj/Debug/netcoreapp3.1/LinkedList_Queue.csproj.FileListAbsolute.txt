@@ -1,0 +1,14 @@
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\bin\Debug\netcoreapp3.1\LinkedList_Queue.exe
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\bin\Debug\netcoreapp3.1\LinkedList_Queue.deps.json
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\bin\Debug\netcoreapp3.1\LinkedList_Queue.runtimeconfig.json
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\bin\Debug\netcoreapp3.1\LinkedList_Queue.runtimeconfig.dev.json
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\bin\Debug\netcoreapp3.1\LinkedList_Queue.dll
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\bin\Debug\netcoreapp3.1\LinkedList_Queue.pdb
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\obj\Debug\netcoreapp3.1\LinkedList_Queue.csproj.AssemblyReference.cache
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\obj\Debug\netcoreapp3.1\LinkedList_Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\obj\Debug\netcoreapp3.1\LinkedList_Queue.AssemblyInfoInputs.cache
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\obj\Debug\netcoreapp3.1\LinkedList_Queue.AssemblyInfo.cs
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\obj\Debug\netcoreapp3.1\LinkedList_Queue.csproj.CoreCompileInputs.cache
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\obj\Debug\netcoreapp3.1\LinkedList_Queue.dll
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\obj\Debug\netcoreapp3.1\LinkedList_Queue.pdb
+D:\RFP\DS_Stack-Queue\LinkedList_Queue\LinkedList_Queue\obj\Debug\netcoreapp3.1\LinkedList_Queue.genruntimeconfig.cache
