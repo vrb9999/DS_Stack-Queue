@@ -1,0 +1,14 @@
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\bin\Debug\netcoreapp3.1\Queue_Dequeue.exe
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\bin\Debug\netcoreapp3.1\Queue_Dequeue.deps.json
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\bin\Debug\netcoreapp3.1\Queue_Dequeue.runtimeconfig.json
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\bin\Debug\netcoreapp3.1\Queue_Dequeue.runtimeconfig.dev.json
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\bin\Debug\netcoreapp3.1\Queue_Dequeue.dll
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\bin\Debug\netcoreapp3.1\Queue_Dequeue.pdb
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\obj\Debug\netcoreapp3.1\Queue_Dequeue.csproj.AssemblyReference.cache
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\obj\Debug\netcoreapp3.1\Queue_Dequeue.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\obj\Debug\netcoreapp3.1\Queue_Dequeue.AssemblyInfoInputs.cache
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\obj\Debug\netcoreapp3.1\Queue_Dequeue.AssemblyInfo.cs
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\obj\Debug\netcoreapp3.1\Queue_Dequeue.csproj.CoreCompileInputs.cache
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\obj\Debug\netcoreapp3.1\Queue_Dequeue.dll
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\obj\Debug\netcoreapp3.1\Queue_Dequeue.pdb
+D:\RFP\DS_Stack-Queue\Queue_Dequeue\Queue_Dequeue\obj\Debug\netcoreapp3.1\Queue_Dequeue.genruntimeconfig.cache
